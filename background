@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>background</title>
+    <style>
+      /* * {
+        margin: 0;
+        padding: 0;
+      } */
+      .container {
+        width: 204px;
+        height: 824px;
+        /* height: 999px; */
+        border: 2px solid rgb(0, 0, 0);
+        /* border-image: ); */
+        /* background-image:url(image1.jpg);
+        background-repeat: no-repeat;
+        background-size: 1343px 1242px;
+        color:white;
+        background-attachment: fixed; */
+        background: rgb(185, 58, 58) url(image1.jpg) no-repeat fixed right top;
+        /* background-position: left top; */
+      }
+      /* body{background-image: url("image1.jpg");background-repeat: no-repeat;
+
+      } */
+    </style>
+  </head>
+  <body>
+    <div class="container">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa blanditiis, maiores aspernatur neque perferendis in odit nihil, exercitationem velit cum necessitatibus numquam nobis accusantium quisquam sit aut ea consequuntur dolore praesentium. Cupiditate quas fugit iure voluptatibus quidem, labore sequi consequuntur tempore, repellendus distinctio culpa tenetur facere porro? Soluta aut veniam eveniet asperiores quod? Sed sint quas eveniet placeat! Reiciendis facilis, beatae rem fugiat 
+    </div>
+  </body>
+</html>
